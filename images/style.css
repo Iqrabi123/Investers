@@ -1,0 +1,162 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 6px;
+}
+
+.scr {
+  background-size: cover;
+  height: 116px;
+  width: 158px;
+  margin-left: 97px;
+}
+
+.log {
+  background-size: cover;
+  height: 135px;
+  width: 173px;
+  margin-left: 107px;
+  margin-top: 56px;
+}
+
+.log2 {
+  background-size: cover;
+  height: 135px;
+  width: 173px;
+  margin-left: 75px;
+  margin-top: 28px;
+}
+
+.h {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 72px;
+}
+
+.man {
+  background-size: cover;
+  height: 190px;
+  width: 188px;
+  margin-left: 92px;
+  margin-top: 36px;
+  border-radius: 9px;
+}
+
+.man2 {
+  background-size: cover;
+  height: 190px;
+  width: 191px;
+  margin-left: 290px;
+  margin-top: -281px;
+  display: flex;
+  border-radius: 9px;
+}
+
+.man3 {
+  background-size: cover;
+  height: 190px;
+  width: 191px;
+  margin-left: 492px;
+  margin-top: -266px;
+  display: flex;
+  border-radius: 9px;
+}
+.man4 {
+  background-size: cover;
+  height: 190px;
+  width: 191px;
+  margin-left: 693px;
+  margin-top: -279px;
+  display: flex;
+  border-radius: 9px;
+}
+.vijay {
+  margin-top: 1px;
+  margin-left: 108px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+  margin-top: 3px;
+  margin-left: 32px;
+  font-size: 11px;
+}
+
+.tm {
+  margin-top: -24px;
+  background-size: cover;
+  height: 74px;
+  width: 48px;
+  margin-left: 41px;
+}
+
+.kunal {
+  margin-top: 1px;
+  margin-left: 342px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.f {
+  margin-top: 1px;
+  margin-left: 21px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.ph {
+  margin-top: -11px;
+  background-size: cover;
+  height: 53px;
+  width: 114px;
+  margin-left: -11px;
+}
+
+.amrish {
+  margin-top: 1px;
+  margin-left: 541px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.c {
+  margin-top: 1px;
+  margin-left: 33px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.pho {
+  margin-top: -1px;
+  background-size: cover;
+  height: 54px;
+  width: 104px;
+  margin-left: -10px;
+}
+
+.sampad {
+  margin-top: 1px;
+  margin-left: 739px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.q {
+  margin-top: 1px;
+  margin-left: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.phot {
+  margin-top: 0px;
+  background-size: cover;
+  height: 29px;
+  width: 72px;
+  margin-left: 21px;
+}
+
+.one {
+  border: 2px solid transparent;
+}
+.two {
+  border: 2px solid red;
+}
